@@ -262,7 +262,7 @@ elif aba_selecionada == "🔮 Previsão":
     if modelo_escolhido == "XGBoost":
         rmse_modelo = 1.74
     else:
-        rmse_modelo = 2.12
+        rmse_modelo = 1.82
 
     st.markdown(f"**📉 RMSE do modelo selecionado:** {rmse_modelo:.2f}")
 
