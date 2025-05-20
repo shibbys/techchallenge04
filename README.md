@@ -10,6 +10,7 @@ Aplicação em Streamlit que realiza a previsão do preço do petróleo Brent ut
 1. Acesse o link acima.
 2. Navegue entre as abas disponíveis.
 3. Explore os gráficos, selecione os modelos e visualize as previsões.
+
 A análise está disponível no arquivo TC04_Analysis_v1.ipynb
 
 ## Tecnologias utilizadas
